@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "clean-dev": "rd /s /q .next && npm run dev"
+
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.13",
